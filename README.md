@@ -6,12 +6,12 @@ The Rasti64 keyboard is a simple 64-key wired, low-profile, staggered mechanical
 
 ## Features
 
-- ☑️ Low-profile Choc v1 switches are used; the whole build is under 15mm without the case.
-- ☑️ 65% staggered layout with arrow keys, essentially a MacBook keyboard minus the Fn row.
-- ☑️ A whole new custom keycap set design (ranging from 1U to 2.25U, and a 4.75U spacebar that utilizes a 6.25U stabilizer).
-- ☑️ Works with standard Choc stabilizers and Choc spacing keycaps.
-- ☑️ Powered by RP2040-Zero or other compatible boards.
-- ☑️ QMK/VIA firmware support.
+- ✅ Low-profile Choc v1 switches are used; the whole build is under 15mm without the case.
+- ✅ 65% staggered layout with arrow keys, essentially a MacBook keyboard minus the Fn row.
+- ✅ A whole new custom keycap set design (ranging from 1U to 2.25U, and a 4.75U spacebar that utilizes a 6.25U stabilizer).
+- ✅ Works with standard Choc stabilizers and Choc spacing keycaps.
+- ✅ Powered by RP2040-Zero or other compatible boards.
+- ✅ QMK/VIA firmware support.
 
 The name "Rasti" is derived from the German compound word "Rasterrahmen" (grid + framework).
 
@@ -33,7 +33,7 @@ Quantity | Item | Notes
 
 ![](images/rasti64-bom.jpg)
 
-Case can be 3D printed (FDM or SLA), use provided STEP file for CNC machining. 
+The case can be 3D printed (FDM or SLA), use provided STEP file for CNC machining. 
 
 ## Firmware 
 
