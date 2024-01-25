@@ -25,7 +25,7 @@ Quantity | Item | Notes
 64 | Kailh choc v1 PG1350 switches 
 64 | 1N4148 diodes | Through hole
 5 | [Rasti-keycap-set-1U](keycaps/Rasti-keycap-set-1U-v1.3.stl) | Resin print recommended 
-2 | [Rasti-keycap-set](keycaps/Rasti-keycap-set-v1.4.stl) | Resin print recommended 
+2 | [Rasti-keycap-set](keycaps/Rasti-keycap-set-V1.4.stl) | Resin print recommended 
 1 | Kailh choc stabilizers | 1 ⨉ 2U and 1 ⨉ 6.25U 
 1 | Pin headers or sockets | 23-pin needed 
 
