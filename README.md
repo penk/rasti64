@@ -33,7 +33,7 @@ Quantity | Item | Notes
 
 ![](images/rasti64-bom.jpg)
 
-The case can be 3D printed (FDM or SLA), use provided STEP file for CNC machining. 
+The case can be 3D printed (FDM/SLA) or CNC machined using the provided STEP file. Featured above is an Aluminum 6061 CNC case with bead-blasted surface finish, and SLA-printed black resin keycaps.
 
 ## Firmware 
 
@@ -48,7 +48,7 @@ A [via.json](QMK/via.json) file is also provided along in the source directory t
 
 1.	Flash firmware to the RP2040 Zero and ensure it’s recognized by host PC.
 2.	Solder diodes on the PCB’s underside.
-3.	Install stabilizers (2U and 6.25U) to the plate. (Reference: https://docs.keeb.io/choc-stabs)
+3.	Install stabilizers (2U and 6.25U) to the plate. (Ref: https://docs.keeb.io/choc-stabs)
 4.	Place and install switches above the controller area on top of the plate.
 5.	Solder header pins on the PCB’s underside.
 6.	Attach the plate to the top side of the PCB, ensuring switch feet poke through.
