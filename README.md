@@ -6,12 +6,15 @@ The Rasti64 keyboard is a simple 64-key wired, low-profile, staggered mechanical
 
 ## Features
 
+- ✅ 65% staggered layout with arrow keys, essentially a MacBook keyboard sans the Function row.
 - ✅ Low-profile Choc v1 switches are used; the whole build is under 15mm without the case.
-- ✅ 65% staggered layout with arrow keys, essentially a MacBook keyboard minus the Fn row.
-- ✅ A whole new custom keycap set design (ranging from 1U to 2.25U, and a 4.75U spacebar that utilizes a 6.25U stabilizer).
+- ✅ A new custom keycap set (ranging from 1U to 2.25U, and a 4.75U spacebar that utilizes the 6.25U stabilizer).
 - ✅ Works with standard Choc stabilizers and Choc spacing keycaps.
 - ✅ Powered by RP2040-Zero or other compatible boards.
 - ✅ QMK/VIA firmware support.
+
+| ![](images/rasti64-wired.jpg) | ![](images/rasti64-lowpro.jpg) |
+| --- | --- |
 
 The name "Rasti" is derived from the German compound word "Rasterrahmen" (grid + framework).
 
@@ -29,11 +32,14 @@ Quantity | Item | Notes
 1 | Kailh choc stabilizers | 1 ⨉ 2U and 1 ⨉ 6.25U 
 1 | Pin headers or sockets | 23-pin needed 
 
-## Case 
+## Case and Plate
 
 ![](images/rasti64-bom.jpg)
 
-The case can be 3D printed (FDM/SLA) or CNC machined using the provided STEP file. Featured above is an Aluminum 6061 CNC case with bead-blasted surface finish, and SLA-printed black resin keycaps.
+The showcased model features a case CNC machined from Aluminum 6061 with a bead-blasted finish, and SLA-printed black resin keycaps.
+
+- The case can be 3D printed (FDM/SLA) or CNC machined using the provided [STEP file](case/rasti64-case-cnc.step). 
+- A [DXF file](plate/rasti64-plate.dxf) and an [STL file](plate/rasti64-plate.stl) are also included, providing options for laser cut or 3D printing alternatives to the standard PCB plate. 
 
 ## Firmware 
 
